@@ -1,0 +1,27 @@
+DAY 4 - Git & Version Control
+
+Topics Covered:
+- Introduction to Git and Version Control
+- Git Fundamentals
+  • git clone
+  • git status
+  • git add
+  • git commit
+  • git push
+  • git pull
+- Branching
+- GitHub Workflow
+- Pull Requests (PRs)
+- Merge Conflict Resolution
+
+Assignment Completed:
+- Created a dedicated GitHub repository named "SMC-Internship".
+- Organized the repository into weekly and daily folders.
+- Added previous internship assignments and maintained a structured project hierarchy.
+- Learned the importance of meaningful commit messages and professional version control practices.
+
+Repository:
+https://github.com/SaadAyazCS/SMC-Internship
+
+Learning Outcome:
+Through this task, I gained a better understanding of Git and GitHub workflows, including repository management, collaboration using branches and pull requests, and maintaining an organized version history for software projects.
