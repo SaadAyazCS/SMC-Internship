@@ -2,7 +2,7 @@
 
 This repository documents my learning journey and practical work completed during my **AI/ML Developer Internship** at **Smart Coders (SMC) Private Limited**.
 
-The internship focuses on strengthening Python programming skills, understanding AI/ML concepts, software engineering best practices, and building practical projects through weekly assignments and hands-on development.
+The internship focuses on strengthening Python programming skills, understanding AI/ML concepts, software development best practices, and building practical projects through weekly assignments and hands-on learning.
 
 ---
 
@@ -18,16 +18,10 @@ The internship focuses on strengthening Python programming skills, understanding
 
 ## Repository Structure
 
-```
+```text
 SMC-Internship/
 │
 ├── Week-1/
-│   ├── DAY-1/
-│   ├── DAY-2/
-│   ├── DAY-3/
-│   ├── DAY-4/
-│   └── DAY-5/
-│
 ├── Week-2/
 ├── Week-3/
 ├── Week-4/
@@ -39,65 +33,66 @@ SMC-Internship/
 
 ---
 
-## Week 1 Progress
+## Weekly Progress
 
-### Day 1 - Advanced Python & OOP
-- Classes and Objects
-- Constructors (`__init__`)
-- `self` keyword
-- Inheritance
-- Method Overriding
-- Polymorphism
-- Abstract Classes
-- Assignment: Built a custom **Stack, Queue, and Linked List** library using Object-Oriented Programming.
+### Week 1 - Advanced Python & Development Fundamentals
 
----
+During the first week of the internship, I strengthened my understanding of advanced Python programming and software development practices. The focus was on Object-Oriented Programming (OOP), functional programming, exception handling, debugging, Python package organization, and Git version control.
 
-### Day 2 - Functional Programming
-- List Comprehensions
-- Lambda Functions
-- `map()`
-- `filter()`
-- `reduce()`
-- Closures
-- Assignment: Reimplemented the **Stack, Queue, and Linked List** library using a functional programming approach.
-
----
-
-### Day 3 - Error Handling & Best Practices
-- Exception Handling
-- Custom Exceptions
-- Logging
-- Debugging
-- Code Organization
+**Topics Covered**
+- Advanced Python & OOP
+- Functional Programming
+- Error Handling & Custom Exceptions
+- Logging & Debugging
 - Python Package Structure
-- Assignment: Created a Python package with a proper project structure including `setup.py`, `__init__.py`, and `requirements.txt`.
+- Git & GitHub Fundamentals
+
+**Assignments Completed**
+- Developed a custom **Stack, Queue, and Linked List** library using Object-Oriented Programming.
+- Reimplemented the data structure library using a functional programming approach with **map()**, **filter()**, **reduce()**, lambda functions, and list comprehensions.
+- Created a properly structured Python package containing **setup.py**, **__init__.py**, and **requirements.txt**.
+- Initialized and organized a dedicated GitHub repository while following professional version control practices.
 
 ---
 
-### Day 4 - Git & Version Control
-- Git Fundamentals
-- Branching
-- GitHub Workflow
-- Pull Requests
-- Merge Conflicts
-- Assignment: Initialized a GitHub repository and maintained structured commits throughout the internship.
+### Week 2
 
----
-
-### Day 5
 *To be updated.*
 
 ---
 
-## Skills Learned
+### Week 3
 
-- Advanced Python
+*To be updated.*
+
+---
+
+### Week 4
+
+*To be updated.*
+
+---
+
+### Week 5
+
+*To be updated.*
+
+---
+
+### Week 6
+
+*To be updated.*
+
+---
+
+## Skills Acquired
+
+- Advanced Python Programming
 - Object-Oriented Programming (OOP)
 - Functional Programming
-- Error Handling
-- Debugging
-- Python Packaging
+- Exception Handling
+- Debugging & Logging
+- Python Package Development
 - Git & GitHub
 - Software Development Best Practices
 
@@ -105,7 +100,7 @@ SMC-Internship/
 
 ## Repository Purpose
 
-This repository serves as a record of my internship progress, including daily assignments, practical implementations, and concepts learned throughout the program. It reflects my continuous learning and hands-on experience in Python development and AI/ML.
+This repository serves as a record of my internship progress at Smart Coders (SMC). It contains weekly assignments, practical implementations, and learning outcomes completed throughout the internship. The repository demonstrates continuous learning, structured project organization, and the practical application of Python and AI/ML concepts.
 
 ---
 
@@ -113,7 +108,5 @@ This repository serves as a record of my internship progress, including daily as
 
 **Khawaja Saad Ayaz**
 
-- GitHub: https://github.com/SaadAyazCS
-- LinkedIn: https://www.linkedin.com/in/khsaadayaz
-
----
+- **GitHub:** https://github.com/SaadAyazCS
+- **LinkedIn:** https://www.linkedin.com/in/khsaadayaz
