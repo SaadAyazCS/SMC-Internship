@@ -55,9 +55,35 @@ During the first week of the internship, I strengthened my understanding of adva
 
 ---
 
-### Week 2
+### Week 2 - Mathematics for Machine Learning & ML Fundamentals
 
-*To be updated.*
+During the second week of the internship, I focused on understanding the mathematical foundations required for Machine Learning. The main focus was on Linear Algebra concepts, including vectors, matrices, matrix operations, and distance calculations. These concepts were applied practically by implementing matrix operations from scratch without using external libraries.
+
+**Topics Covered**
+- Linear Algebra Fundamentals
+- Vectors and Matrices
+- Matrix Operations
+- Matrix Multiplication, Transpose, and Inverse
+- Identity Matrices and Scalar Operations
+- Introduction to Tensor Operations
+- Eigenvalues and Eigenvectors (Conceptual Understanding)
+- Distance Metrics:
+  - Euclidean Distance
+  - Manhattan Distance
+  - Cosine Similarity
+
+**Assignments Completed**
+- Developed a custom **Matrix Class** from scratch using Python without using NumPy.
+- Implemented essential matrix operations including:
+  - Matrix Addition
+  - Matrix Subtraction
+  - Matrix Multiplication
+  - Matrix Transpose
+  - Scalar Multiplication
+  - Identity Matrix Generation
+  - Matrix Inverse (2x2)
+- Organized the implementation into structured Python files following software development practices.
+- Applied mathematical concepts used in Machine Learning through practical coding exercises.
 
 ---
 
