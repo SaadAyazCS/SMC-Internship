@@ -55,35 +55,34 @@ During the first week of the internship, I strengthened my understanding of adva
 
 ---
 
-### Week 2 - Mathematics for Machine Learning & ML Fundamentals
+### Week 2 - Mathematics for ML & Machine Learning Fundamentals
 
-During the second week of the internship, I focused on understanding the mathematical foundations required for Machine Learning. The main focus was on Linear Algebra concepts, including vectors, matrices, matrix operations, and distance calculations. These concepts were applied practically by implementing matrix operations from scratch without using external libraries.
+During the second week of the internship, I focused on building a strong foundation in the mathematical concepts required for Machine Learning. The week covered essential topics from linear algebra, calculus, probability, and introductory machine learning concepts. I implemented mathematical operations from scratch and explored how these concepts are applied in real-world ML algorithms.
 
 **Topics Covered**
-- Linear Algebra Fundamentals
-- Vectors and Matrices
-- Matrix Operations
+- Linear Algebra Essentials
+- Vectors, Matrices, and Matrix Operations
 - Matrix Multiplication, Transpose, and Inverse
-- Identity Matrices and Scalar Operations
-- Introduction to Tensor Operations
+- Tensor Operations (Basic Understanding)
 - Eigenvalues and Eigenvectors (Conceptual Understanding)
-- Distance Metrics:
-  - Euclidean Distance
-  - Manhattan Distance
-  - Cosine Similarity
+- Distance Metrics (Euclidean, Manhattan, and Cosine Distance)
+- Derivatives, Gradients, and Chain Rule
+- Partial Derivatives and Jacobian Matrices
+- Probability Distributions and Bayes' Theorem
+- Entropy and Information Theory
+- Machine Learning Fundamentals
+- Supervised and Unsupervised Learning
+- Overfitting, Underfitting, Bias-Variance Tradeoff
+- Cross-Validation and Evaluation Metrics
+- Feature Engineering Concepts
 
 **Assignments Completed**
-- Developed a custom **Matrix Class** from scratch using Python without using NumPy.
-- Implemented essential matrix operations including:
-  - Matrix Addition
-  - Matrix Subtraction
-  - Matrix Multiplication
-  - Matrix Transpose
-  - Scalar Multiplication
-  - Identity Matrix Generation
-  - Matrix Inverse (2x2)
-- Organized the implementation into structured Python files following software development practices.
-- Applied mathematical concepts used in Machine Learning through practical coding exercises.
+- Implemented matrix operations from scratch without using NumPy.
+- Developed a custom **Matrix Class** supporting operations such as addition, subtraction, multiplication, transpose, scalar multiplication, identity matrix creation, and inverse calculation.
+- Implemented gradient descent from scratch and visualized optimization behavior using mathematical concepts.
+- Created probability distribution visualizations to understand statistical concepts used in machine learning.
+- Studied and documented five classic machine learning algorithms conceptually, including their use cases and applications.
+- Created algorithm mind maps to understand when different ML algorithms should be applied.
 
 ---
 
