@@ -120,6 +120,14 @@ During the second week of the internship, I focused on building a strong foundat
 - Python Package Development
 - Git & GitHub
 - Software Development Best Practices
+- Linear Algebra for Machine Learning
+- Matrix Operations & Mathematical Computing
+- Calculus Fundamentals for ML
+- Probability & Statistics for Machine Learning
+- Gradient Descent Optimization
+- Machine Learning Fundamentals
+- ML Algorithm Understanding
+- Data Visualization with Python
 
 ---
 
