@@ -86,9 +86,39 @@ During the second week of the internship, I focused on building a strong foundat
 
 ---
 
-### Week 3
+### Week 3 - NumPy, Pandas & Data Preprocessing
 
-*To be updated.*
+During the third week of the internship, I focused on mastering essential Python libraries used in Machine Learning workflows, including NumPy for numerical computing, Pandas for data manipulation, and visualization libraries for exploratory data analysis. The week emphasized practical data handling, preprocessing techniques, and creating meaningful insights through data analysis and visualization.
+
+**Topics Covered**
+- NumPy for Numerical Computing
+- Arrays, Indexing, and Slicing
+- Broadcasting and Vectorization
+- Mathematical Functions and Linear Algebra Operations
+- Random Number Generation
+- Image Processing using NumPy
+- Pandas Series and DataFrames
+- Data Filtering, Indexing, and Slicing
+- Data Merging, Joining, and Concatenation
+- GroupBy Operations
+- Time Series Data Handling
+- Data Cleaning and Preprocessing
+- Handling Missing Values, Outliers, and Duplicate Data
+- Data Visualization with Matplotlib, Seaborn, and Plotly
+- Exploratory Data Analysis (EDA)
+- Interactive Data Dashboards
+
+**Assignments Completed**
+- Created 30+ NumPy exercises covering arrays, indexing, slicing, mathematical operations, and vectorized computations.
+- Developed a linear algebra utility library using NumPy for matrix operations and numerical computations.
+- Performed performance comparison between NumPy operations and traditional Python loops.
+- Implemented image processing operations using NumPy, including filters and image transformations.
+- Worked with real-world datasets using Pandas and performed exploratory data analysis.
+- Built a data preprocessing pipeline class for handling data cleaning tasks such as missing values, duplicates, and outlier detection.
+- Generated data quality reports to analyze dataset consistency and reliability.
+- Created multiple data visualizations using Matplotlib and Seaborn to analyze distributions, trends, and correlations.
+- Developed an interactive dashboard using Plotly for visual data exploration.
+- Completed an EDA report containing 20+ visualizations and analytical insights.
 
 ---
 
@@ -127,7 +157,16 @@ During the second week of the internship, I focused on building a strong foundat
 - Gradient Descent Optimization
 - Machine Learning Fundamentals
 - ML Algorithm Understanding
-- Data Visualization with Python
+- NumPy for Numerical Computing
+- Pandas for Data Manipulation
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Quality Analysis
+- Matplotlib Data Visualization
+- Seaborn Statistical Visualization
+- Plotly Interactive Dashboards
+- Data Analysis Workflow
+- Machine Learning Data Preparation
 
 ---
 
