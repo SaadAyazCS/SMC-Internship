@@ -1,0 +1,16 @@
+Employee_ID,Age,Department,Salary,Experience,Performance,Working_Hours
+1,25,IT,50000,2,85,40
+2,30,HR,60000,5,90,42
+3,28,Finance,55000,4,78,45
+4,35,IT,80000,10,95,40
+5,40,Management,95000,15,92,38
+6,27,Marketing,52000,3,80,44
+7,32,Finance,70000,7,88,41
+8,45,Management,120000,20,98,35
+9,29,IT,65000,6,86,40
+10,38,HR,75000,12,91,39
+11,26,Marketing,48000,2,75,46
+12,33,Finance,72000,8,89,42
+13,41,Management,110000,18,96,36
+14,31,IT,68000,7,84,41
+15,36,HR,77000,11,90,40

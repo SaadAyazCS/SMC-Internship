@@ -1,0 +1,25 @@
+Exploratory Data Analysis Report
+
+Dataset Information
+None
+
+Statistical Summary
+       Employee_ID        Age         Salary  Experience  Performance  Working_Hours
+count    15.000000  15.000000      15.000000   15.000000    15.000000      15.000000
+mean      8.000000  33.066667   73133.333333    8.666667    87.800000      40.600000
+std       4.472136   5.969765   21243.038075    5.627314     6.592203       3.018988
+min       1.000000  25.000000   48000.000000    2.000000    75.000000      35.000000
+25%       4.500000  28.500000   57500.000000    4.500000    84.500000      39.500000
+50%       8.000000  32.000000   70000.000000    7.000000    89.000000      40.000000
+75%      11.500000  37.000000   78500.000000   11.500000    91.500000      42.000000
+max      15.000000  45.000000  120000.000000   20.000000    98.000000      46.000000
+
+Missing Values
+Employee_ID      0
+Age              0
+Department       0
+Salary           0
+Experience       0
+Performance      0
+Working_Hours    0
+dtype: int64
