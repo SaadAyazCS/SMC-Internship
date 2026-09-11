@@ -1,0 +1,10 @@
+Dataset,Algorithm,Clusters Found,Silhouette,Calinski-Harabasz,Davies-Bouldin,ARI (Ground Truth),NMI (Ground Truth)
+Iris,K-Means,2,0.5818,251.35,0.5933,0.5681,0.7337
+Iris,Hierarchical,2,0.577,240.25,0.5917,0.5438,0.6925
+Iris,DBSCAN,2,0.5979,277.65,0.5688,0.5709,0.735
+Wine,K-Means,3,0.2849,70.94,1.3892,0.8975,0.8759
+Wine,Hierarchical,3,0.2774,67.65,1.4186,0.7899,0.7865
+Wine,DBSCAN,0,,,,,
+Synthetic Blobs (4 Clusters),K-Means,4,0.6868,2043.44,0.4593,1.0,1.0
+Synthetic Blobs (4 Clusters),Hierarchical,4,0.6868,2043.44,0.4593,1.0,1.0
+Synthetic Blobs (4 Clusters),DBSCAN,3,0.6192,951.14,0.5328,0.7131,0.8571
