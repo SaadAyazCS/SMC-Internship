@@ -25,8 +25,7 @@ SMC-Internship/
 ├── Week-2/
 ├── Week-3/
 ├── Week-4/
-├── Week-5/
-├── Week-6/
+├── Week 5-6/
 │
 └── README.md
 ```
@@ -160,13 +159,7 @@ During the fourth week of the internship, I focused on mastering the Scikit-lear
 
 ---
 
-### Week 5
-
-*To be updated.*
-
----
-
-### Week 6
+### Week 5-6 — Deep Learning & Neural Networks
 
 *To be updated.*
 
