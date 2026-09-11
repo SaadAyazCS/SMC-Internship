@@ -1,0 +1,17 @@
+Dataset,Model,Accuracy,Precision,Recall,F1-Score
+Breast Cancer (Binary),Logistic Regression,0.9737,0.9683,0.9916,0.9794
+Breast Cancer (Binary),Support Vector Machine,0.9754,0.9754,0.986,0.9805
+Breast Cancer (Binary),Naive Bayes,0.9297,0.9379,0.9525,0.9442
+Breast Cancer (Binary),Decision Tree,0.9104,0.9197,0.9412,0.9299
+Breast Cancer (Binary),Random Forest,0.9561,0.9651,0.9665,0.9651
+Breast Cancer (Binary),Gradient Boosting,0.9491,0.9471,0.9748,0.9602
+Breast Cancer (Binary),XGBoost,0.9631,0.9676,0.9748,0.9707
+Breast Cancer (Binary),LightGBM,0.9631,0.9597,0.9832,0.9711
+Wine (Multi-Class),Logistic Regression,0.9833,0.9847,0.9833,0.9833
+Wine (Multi-Class),Support Vector Machine,0.9833,0.9842,0.9833,0.9833
+Wine (Multi-Class),Naive Bayes,0.9775,0.978,0.9775,0.9775
+Wine (Multi-Class),Decision Tree,0.8932,0.8988,0.8932,0.8927
+Wine (Multi-Class),Random Forest,0.9775,0.9785,0.9775,0.9775
+Wine (Multi-Class),Gradient Boosting,0.9214,0.927,0.9214,0.9205
+Wine (Multi-Class),XGBoost,0.9606,0.9621,0.9606,0.9604
+Wine (Multi-Class),LightGBM,0.966,0.9672,0.966,0.9655
