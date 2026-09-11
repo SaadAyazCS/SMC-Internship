@@ -25,7 +25,8 @@ def load_datasets():
     datasets["Wine"] = (wine.data, wine.target)
 
     # 3. Synthetic Blobs
-    X_blobs, y_blobs = make_blobs(n_samples=500, n_features=6, centers=4, cluster_std=1.2, random_state=42)
+    blob_data = make_blobs(n_samples=500, n_features=6, centers=4, cluster_std=1.2, random_state=42)
+    X_blobs, y_blobs = blob_data[0], blob_data[1]
     feature_names = [f"feat_{i}" for i in range(6)]
     datasets["Synthetic Blobs (4 Clusters)"] = (pd.DataFrame(X_blobs, columns=feature_names), pd.Series(y_blobs))
 
