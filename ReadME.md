@@ -122,9 +122,41 @@ During the third week of the internship, I focused on mastering essential Python
 
 ---
 
-### Week 4
+### Week 4 - Scikit-learn & Traditional ML Algorithms
 
-*To be updated.*
+During the fourth week of the internship, I focused on mastering the Scikit-learn library and traditional machine learning algorithms across supervised, unsupervised, and production pipeline workflows. I implemented and evaluated a broad spectrum of regression, classification, and clustering models, explored dimensionality reduction techniques, conducted hyperparameter optimization, and built robust, production-ready machine learning pipelines.
+
+**Topics Covered**
+- Supervised Learning - Regression (Linear Regression, Ridge, Lasso, ElasticNet, SVR, Decision Trees, Random Forests)
+- Regression Evaluation Metrics (MAE, MSE, RMSE, R²)
+- Hyperparameter Optimization using GridSearchCV
+- Supervised Learning - Classification (Logistic Regression, Support Vector Machines, Naive Bayes, Decision Trees, Random Forests, Gradient Boosting, XGBoost, LightGBM)
+- Classification Metrics (Confusion Matrix, Precision, Recall, F1-Score, ROC-AUC)
+- Imbalanced Dataset Handling (SMOTE, ADASYN, Class Weighting)
+- Stratified K-Fold Cross-Validation
+- Unsupervised Learning - Clustering (K-Means, Hierarchical/Agglomerative Clustering, DBSCAN)
+- Cluster Evaluation Techniques (Elbow Method, Silhouette Analysis, Calinski-Harabasz, Davies-Bouldin)
+- Dimensionality Reduction & Manifold Learning (PCA, t-SNE)
+- Feature Engineering & Preprocessing (StandardScaler, MinMaxScaler, RobustScaler, Normalizer)
+- Categorical Encoding Strategies (One-Hot, Ordinal, Target Encoding)
+- Feature Selection Paradigms (Filter Methods, Wrapper RFE, Embedded Model Importance)
+- Modular Scikit-learn Pipeline & ColumnTransformer Architecture
+- Model Persistence and Artifact Serialization (`joblib`)
+
+**Assignments Completed**
+- Implemented and benchmarked 7 regression models across 3 diverse datasets (California Housing, Diabetes, Friedman-1 Synthetic).
+- Performed hyperparameter tuning using 5-fold GridSearchCV to optimize regression model parameters.
+- Generated Actual vs. Predicted scatter plots and residual distribution diagnostics for all regression models.
+- Developed an end-to-end classification comparison pipeline testing 8 classifiers (including XGBoost and LightGBM) using 5-fold Stratified Cross-Validation.
+- Handled severe class imbalance using SMOTE and evaluated performance gains on minority class recall and F1-score.
+- Generated confusion matrix heatmaps, ROC-AUC curves, and comparative cross-validation performance visualizations.
+- Built an unsupervised clustering pipeline applying K-Means, Hierarchical Clustering, and DBSCAN on 3 datasets.
+- Utilized the Elbow Method and Silhouette Analysis to mathematically determine the optimal number of clusters.
+- Implemented dimensionality reduction using PCA and t-SNE to project high-dimensional clusters onto 2D space.
+- Constructed a hierarchical clustering dendrogram using Ward linkage.
+- Compared 4 feature scaling techniques and 3 categorical encoding strategies.
+- Evaluated Filter, Wrapper (RFE), and Embedded feature selection methods to identify top predictive drivers.
+- Developed a reusable, production-ready `MLPipeline` class featuring automated mixed-type handling (`ColumnTransformer`), GridSearchCV tuning, feature importance extraction, and model persistence.
 
 ---
 
@@ -167,6 +199,21 @@ During the third week of the internship, I focused on mastering essential Python
 - Plotly Interactive Dashboards
 - Data Analysis Workflow
 - Machine Learning Data Preparation
+- Scikit-learn Machine Learning Library
+- Supervised Learning: Regression
+- Supervised Learning: Classification
+- Unsupervised Learning & Clustering
+- Dimensionality Reduction (PCA & t-SNE)
+- Hyperparameter Tuning (GridSearchCV)
+- Cross-Validation Techniques (Stratified K-Fold)
+- Machine Learning Evaluation Metrics
+- Handling Imbalanced Data (SMOTE & ADASYN)
+- Advanced Feature Engineering & Scaling
+- Categorical Encoding (One-Hot, Target Encoding)
+- Feature Selection (Filter, Wrapper, Embedded)
+- Ensemble Learning (Random Forest, Gradient Boosting, XGBoost, LightGBM)
+- Production-Ready ML Pipeline Architecture
+- Model Serialization & Persistence
 
 ---
 
