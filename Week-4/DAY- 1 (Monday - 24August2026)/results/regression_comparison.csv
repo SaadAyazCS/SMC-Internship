@@ -1,0 +1,22 @@
+Dataset,Model,MAE,MSE,RMSE,R2
+California Housing,Linear Regression,0.5319,0.5052,0.7108,0.6347
+California Housing,Ridge Regression,0.5317,0.5052,0.7108,0.6347
+California Housing,Lasso Regression,0.6229,0.689,0.8301,0.5018
+California Housing,ElasticNet,0.5893,0.6255,0.7909,0.5478
+California Housing,Support Vector Regression,0.4057,0.3453,0.5877,0.7503
+California Housing,Decision Tree,0.5443,0.6049,0.7778,0.5626
+California Housing,Random Forest,0.398,0.3327,0.5768,0.7595
+Diabetes,Linear Regression,42.7941,2900.1936,53.8534,0.4526
+Diabetes,Ridge Regression,42.812,2892.0146,53.7775,0.4541
+Diabetes,Lasso Regression,42.8052,2884.6243,53.7087,0.4555
+Diabetes,ElasticNet,42.8733,2866.4613,53.5393,0.459
+Diabetes,Support Vector Regression,56.0324,4331.0076,65.8104,0.1825
+Diabetes,Decision Tree,53.9213,4887.0,69.9071,0.0776
+Diabetes,Random Forest,44.1712,2959.1806,54.3984,0.4415
+Friedman-1 (Synthetic),Linear Regression,1.8679,5.2522,2.2918,0.7618
+Friedman-1 (Synthetic),Ridge Regression,1.8681,5.2529,2.2919,0.7617
+Friedman-1 (Synthetic),Lasso Regression,1.8865,5.3521,2.3135,0.7572
+Friedman-1 (Synthetic),ElasticNet,1.8983,5.4005,2.3239,0.755
+Friedman-1 (Synthetic),Support Vector Regression,1.5139,3.6704,1.9158,0.8335
+Friedman-1 (Synthetic),Decision Tree,2.2752,8.2903,2.8793,0.624
+Friedman-1 (Synthetic),Random Forest,1.4499,3.2855,1.8126,0.851
