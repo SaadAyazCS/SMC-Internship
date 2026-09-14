@@ -207,59 +207,23 @@ During the fifth and sixth weeks of the internship, I focused on deep learning t
 
 ## Skills Acquired
 
-- Advanced Python Programming
-- Object-Oriented Programming (OOP)
-- Functional Programming
-- Exception Handling
-- Debugging & Logging
-- Python Package Development
-- Git & GitHub
-- Software Development Best Practices
-- Linear Algebra for Machine Learning
-- Matrix Operations & Mathematical Computing
-- Calculus Fundamentals for ML
-- Probability & Statistics for Machine Learning
-- Gradient Descent Optimization
-- Machine Learning Fundamentals
-- ML Algorithm Understanding
-- NumPy for Numerical Computing
-- Pandas for Data Manipulation
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Quality Analysis
-- Matplotlib Data Visualization
-- Seaborn Statistical Visualization
-- Plotly Interactive Dashboards
-- Data Analysis Workflow
-- Machine Learning Data Preparation
-- Scikit-learn Machine Learning Library
-- Supervised Learning: Regression
-- Supervised Learning: Classification
-- Unsupervised Learning & Clustering
-- Dimensionality Reduction (PCA & t-SNE)
-- Hyperparameter Tuning (GridSearchCV)
-- Cross-Validation Techniques (Stratified K-Fold)
-- Machine Learning Evaluation Metrics
-- Handling Imbalanced Data (SMOTE & ADASYN)
-- Advanced Feature Engineering & Scaling
-- Categorical Encoding (One-Hot, Target Encoding)
-- Feature Selection (Filter, Wrapper, Embedded)
-- Ensemble Learning (Random Forest, Gradient Boosting, XGBoost, LightGBM)
-- Production-Ready ML Pipeline Architecture
-- Model Serialization & Persistence
-- Deep Learning & Artificial Neural Networks (ANN)
-- Neural Networks from Scratch (NumPy)
-- Vectorized Backpropagation & Gradient Calculus
-- Deep Learning Optimizers (SGD, Momentum, RMSprop, Adam)
-- PyTorch Deep Learning Framework
-- Automatic Differentiation (`autograd`) & Dynamic Computational Graphs
-- GPU Computing & CUDA Acceleration
-- Convolutional Neural Networks (CNNs) & Feature Extraction
-- Transfer Learning & Pre-trained Vision Models (ResNet-18)
-- Recurrent Neural Networks (RNN, LSTM, GRU)
-- Sequence Modeling & Time Series Forecasting
-- Character-Level Language Modeling & Text Generation
-- Attention Mechanisms (Bahdanau Additive Attention)
+### Core Technologies & Tools
+- **Languages & Frameworks:** Python (OOP, Functional, Packaging), PyTorch, Scikit-learn, NumPy, Pandas
+- **Visualization:** Matplotlib, Seaborn, Plotly (Interactive Dashboards)
+- **Development & Hardware:** Git, GitHub, CUDA GPU Acceleration (`cuda:0`)
+
+### Machine Learning & Data Engineering
+- **Mathematical Foundations:** Linear Algebra, Vectorized Calculus, Probability Distributions, Gradient Descent
+- **Data Engineering:** Data Cleaning Pipelines, Outlier Detection, Quality Audits, Exploratory Data Analysis (EDA)
+- **Supervised Learning:** Regression & Classification Models, Ensemble Learning (Random Forest, Gradient Boosting, XGBoost, LightGBM)
+- **Unsupervised Learning:** Clustering (K-Means, Hierarchical, DBSCAN), Dimensionality Reduction (PCA, t-SNE)
+- **Feature Engineering & MLOps:** Encodings (One-Hot, Target), Scalers, Feature Selection, Imbalance Handling (SMOTE), Stratified Cross-Validation, GridSearchCV, Pipeline Serialization (`joblib`)
+
+### Deep Learning & Neural Networks
+- **Foundations from Scratch:** Multi-Layer Perceptrons (NumPy), Vectorized Backpropagation, Activation & Loss Functions, Custom Optimizers (SGD, Momentum, RMSprop, Adam)
+- **Modern PyTorch:** Dynamic Computational Graphs, Autograd, Sequential vs. Functional APIs, Batch Normalization, Dropout
+- **Computer Vision (CNNs):** Convolutional Feature Extractors, Spatial Pooling, Data Augmentation, Transfer Learning & Fine-Tuning (ResNet-18)
+- **Sequence Modeling & NLP:** Recurrent Networks (Vanilla RNN, LSTM, GRU), Non-Linear Time Series Forecasting, Character-Level Language Modeling, Bahdanau Additive Attention
 
 ---
 
