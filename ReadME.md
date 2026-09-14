@@ -159,9 +159,28 @@ During the fourth week of the internship, I focused on mastering the Scikit-lear
 
 ---
 
-### Week 5-6 — Deep Learning & Neural Networks
+### Week 5-6 - Deep Learning & Neural Networks
 
-*To be updated.*
+During Weeks 5 and 6, I immersed myself in deep learning theory and practical neural network implementation, progressing from building deep learning foundations completely from scratch using NumPy to engineering advanced modern architectures in PyTorch with CUDA GPU acceleration.
+
+#### Day 1-2: Neural Network Fundamentals from Scratch (NumPy)
+- **Mathematical Foundations**: Implemented multi-layer perceptrons (MLP) from scratch with manual forward and backward propagation using vectorized matrix calculus.
+- **Activation Functions**: Implemented Sigmoid, ReLU, LeakyReLU, Tanh, and Softmax along with their analytical derivatives.
+- **Loss Functions & Optimizers**: Coded Binary Cross-Entropy, Categorical Cross-Entropy, and Mean Squared Error; implemented SGD, Momentum, RMSprop, and Adam optimizers from scratch.
+- **Regularization**: Added L1/L2 weight decay and inverted Dropout to mitigate overfitting.
+
+#### Day 3-4: PyTorch Basics & Convolutional Neural Networks (CNNs)
+- **PyTorch & Autograd**: Mastered PyTorch tensor operations, broadcasting semantics, dynamic computational graphs, automatic differentiation (`autograd`), and GPU device placement (`cuda:0`).
+- **Sequential vs Functional API**: Designed modular architectures using both `nn.Sequential` and `nn.Module` subclassing (functional forward execution with BatchNorm and Dropout).
+- **MNIST Handwritten Digit Classification**: Trained and compared Sequential MLP (97.83%), Functional MLP (97.73%), and Basic CNN (98.98%) on 60,000 images, visualizing confusion matrices and training dynamics.
+- **Custom Image Classification (Advanced CNN)**: Built a deep 3-stage convolutional network with residual-style blocks, batch normalization, spatial dropout, and data augmentation, achieving **100.00% test accuracy** across 10 custom geometric/color classes (exceeding the 90%+ assignment threshold).
+- **Transfer Learning**: Investigated pre-trained deep feature extractors using ResNet-18, contrasting frozen backbone transfer learning (133k trainable parameters) against partial fine-tuning (layer3, layer4, and classification head).
+
+#### Day 5: Recurrent Neural Networks (RNNs, LSTMs, GRUs & Attention)
+- **Sequence Modeling Architectures**: Implemented and benchmarked Vanilla RNN, Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Bidirectional LSTM networks.
+- **Time Series Forecasting**: Formulated a multi-step time series regression pipeline on synthetic non-linear sine waves, demonstrating that LSTM and GRU significantly outperform vanilla RNNs in capturing long-term temporal dependencies.
+- **Character-Level Text Generation**: Engineered a character-level LSTM language model with temperature-scaled multinomial sampling to generate coherent text passages from a Shakespeare corpus.
+- **Sentiment Analysis with Attention**: Implemented a Bidirectional LSTM coupled with Bahdanau additive attention for text sentiment classification, achieving **100.00% test accuracy** and evaluating precision, recall, and confusion matrix metrics.
 
 ---
 
